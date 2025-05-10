@@ -11,7 +11,6 @@ int main()
     // Guardar el numero ingresado por el usuario
     cin >> number;
 
-    
     if ((number % 2) == 0)
     {
         // Si el residuo de la division es 0 el numero es par
@@ -22,7 +21,8 @@ int main()
         // Si el resiudio de la division es distinto de 0, entonces el numero es impar
         cout << "Tu numero es impar" << endl;
     }
-    else {
+    else
+    {
         // En caso que el usuario digite algo invalido
         cout << "Entrada invalida" << endl;
     }
