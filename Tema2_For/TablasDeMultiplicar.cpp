@@ -5,7 +5,7 @@ int main()
 {
     int n, stop, result;
     cout << "Tablas de Multiplicar" << endl;
-    // Realizar al menos una vez
+    // Realizar al menos una vez la accion
     do
     {
         // Solicitar al usuario los datos
