@@ -13,7 +13,7 @@ int main()
         // Verificar si el numero por el que va el bucle es par
         if ((i % 2) == 0)
         {
-            // Si el numero es para almacenar el dato y sumarlo con el siguiente
+            // Si el numero es par, almacenar el dato y sumarlo con el siguiente
             suma += i;
         }
     }
