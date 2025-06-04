@@ -23,5 +23,5 @@ int main()
 
     cout << "La aproximacion de Pi es: " << resultado << endl; // Muestra el resultado
 
-    return 0; 
+    return 0;
 }
