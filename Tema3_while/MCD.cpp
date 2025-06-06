@@ -1,4 +1,4 @@
-/* Máximo Común Divisor (MCD)
+/* 12. Máximo Común Divisor (MCD)
 Pide dos números y calcula su MCD usando el algoritmo de Euclides.*/
 
 #include <iostream>
